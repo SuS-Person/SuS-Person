@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=#FFFFFF&height=300&section=header&text=SuS-Person&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=#FFFDFA&height=300&section=header&text=SuS-Person&fontSize=90)
 
 ### Welcome to SuS-Person Github
 
